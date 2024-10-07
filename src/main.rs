@@ -2,4 +2,6 @@
 
 fn main() {
     println!("Hello, world!");
+    println!("Goodbye, world.");
+    // Random comment just because.
 }
