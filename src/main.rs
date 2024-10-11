@@ -12,3 +12,5 @@ fn main() {
 fn print(m: &str) {
     println!("{m}")
 }
+
+// test
